@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub Page!
 ### About Me
-- 🖥️ CS student at Oregon State University in the Honors College
-- 🧠 Focusing on ML/DL & working on full-stack development skills  
-- 📷 Hobbies include photography, hiking, and traveling!
+- 🖥️ CS @ Oregon State University Honors College
+- 💼 Minor in Math & Business
+- 🧠 Focusing on ML/DL & working on full-stack development 
 
 ## Projects
 | Project  | Description | Tech Stack |
