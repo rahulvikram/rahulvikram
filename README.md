@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Page!
 ### About Me
-- 🖥️ CS @ Oregon State University Honors College
+- 🖥️ CS @ Oregon State University Honors 
 - 💼 Minor in Math & Business
 - 🧠 ML Researcher @ STAR Lab
 - 👩‍💻 SDE @ OSU CASS
