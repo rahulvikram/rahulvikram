@@ -4,7 +4,8 @@
 ### About Me
 - 🖥️ CS @ Oregon State University Honors College
 - 💼 Minor in Math & Business
-- 🧠 ML Researcher @ STAR Lab 
+- 🧠 ML Researcher @ STAR Lab
+- 👩‍💻 SDE @ OSU CASS
 
 ## Projects
 | Project  | Description | Tech Stack |
