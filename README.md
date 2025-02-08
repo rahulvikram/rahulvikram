@@ -5,7 +5,7 @@
 - 🖥️ CS @ Oregon State University Honors 
 - 💼 Minor in Math & Business
 - 🧠 ML Researcher @ STAR Lab
-- 👩‍💻 SDE @ OSU CASS
+- 👩‍💻 SWE @ OSU CASS
 
 ## Projects
 | Project  | Description | Tech Stack |
