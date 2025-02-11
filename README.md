@@ -13,6 +13,7 @@
 | [RunMetrics](https://github.com/rahulvikram/RunMetrics-Visualizer) | Devtool library built from scratch, focused on algorithm analysis data aggregation & visualization. Published to [PyPi.](https://pypi.org/project/runmetricsvisualizer/) | Python, Pandas, Matplotlib, Tkinter, Git, PyPi, Poetry, Unittest |
 | [Academia Hero](https://github.com/rahulvikram/Academia-Hero/)  | Discord bot desgined to assist OSU students with retreiving courses, upcoming assignments, and grades from Canvas. | JavaScript, NodeJS, Discord.js, CanvasAPI, REST, MySQL, Postman, Docker, Git |
 | [Beaver Board](https://github.com/rahulvikram/beaver-board) | A minimalistic app where student users can dynamically keep track of upcoming assignments, exams, projects, and classes. | JavaScript, NodeJS, Vue.js, Express, Firebase, Vite, Git |
+| [ASPortfolio](https://github.com/rahulvikram/aspnet) | Example simple portfolio website and online marketplace developed in ASP.NET Core MVC, applying various system design concepts. | C#, .NET, ASP.NET Core MVC, Git |
 | [JetSuite](https://github.com/rahulvikram/jet-suite/) | A platform inspired by Expedia, designed for managing hotel and flight bookings efficiently. **(WIP)** | JavaScript, React, Express, REST, MySQL, Tailwind, Vite, Git |
 | Coming soon...  | In progress... | W.I.P. |
 
