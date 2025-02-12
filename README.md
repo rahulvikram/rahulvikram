@@ -6,6 +6,7 @@
 - 💼 Minor in Math & Business
 - 🧠 ML Researcher @ STAR Lab
 - 👩‍💻 SWE @ OSU CASS
+- 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/rahul-vikram/)
 
 ## Projects
 | Project  | Description | Tech Stack |
