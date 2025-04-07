@@ -11,10 +11,11 @@
 ## Projects
 | Project  | Description | Tech Stack |
 | ------------- |-------------|-----:|
-| [RunMetrics](https://github.com/rahulvikram/RunMetrics-Visualizer) | Devtool library built from scratch, focused on algorithm analysis data aggregation & visualization. Published to [PyPi.](https://pypi.org/project/runmetricsvisualizer/) | Python, Pandas, Matplotlib, Tkinter, Git, PyPi, Poetry, Unittest |
-| [Academia Hero](https://github.com/rahulvikram/Academia-Hero/)  | Discord bot desgined to assist OSU students with retreiving courses, upcoming assignments, and grades from Canvas. | JavaScript, NodeJS, Discord.js, CanvasAPI, REST, MySQL, Postman, Docker, Git |
-| [Beaver Board](https://github.com/rahulvikram/beaver-board) | A minimalistic app where student users can dynamically keep track of upcoming assignments, exams, projects, and classes. | JavaScript, NodeJS, Vue.js, Express, Firebase, Vite, Git |
+| [RunMetrics](https://github.com/rahulvikram/RunMetrics-Visualizer) | Devtool library built from scratch, focused on algorithm analysis data aggregation & visualization. Published to [PyPi.](https://pypi.org/project/runmetricsvisualizer/) | Python, Pandas, Matplotlib, Tkinter, Git, PyPi, Poetry |
+| [Academia Hero](https://github.com/rahulvikram/Academia-Hero/)  | Discord bot desgined to assist OSU students with retreiving courses, upcoming assignments, and grades from Canvas. | JavaScript, Node.js, Discord.js, CanvasAPI, REST, MySQL, Postman |
+| [Beaver Board](https://github.com/rahulvikram/beaver-board) | A minimalistic app where student users can dynamically keep track of upcoming assignments, exams, projects, and classes. | JavaScript, Node.js, Vue.js, Express, Firebase, Vite, Git |
 | [ASPortfolio](https://github.com/rahulvikram/aspnet) | Example simple portfolio website and online marketplace developed in ASP.NET Core MVC, applying various system design concepts. | C#, .NET, ASP.NET Core MVC, Git |
+| [Groqqoli](https://github.com/rahulvikram/groqqoli-beavhacks/) | An AI cooking assistant with features such as recipe suggestions from ingredient images, and a text-to-speech recipe voice assistant. Powered by Vercel AI SDK and Groq AI.| TypeScript, Next.js, React, Tailwind, MagicUI, Clerk, Vercel AI SDK, Groq AI |
 | [JetSuite](https://github.com/rahulvikram/jet-suite/) | A platform inspired by Expedia, designed for managing hotel and flight bookings efficiently. **(WIP)** | JavaScript, React, Express, REST, MySQL, Tailwind, Vite, Git |
 | Coming soon...  | In progress... | W.I.P. |
 
@@ -25,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/sql-00758f.svg?style=for-the-badge&logo=sqlite&logoColor=ffca00)
 
 ## Libraries/Frameworks
