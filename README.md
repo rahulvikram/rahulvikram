@@ -16,6 +16,7 @@
 | [Beaver Board](https://github.com/rahulvikram/beaver-board) | A minimalistic app where student users can dynamically keep track of upcoming assignments, exams, projects, and classes. | JavaScript, Node.js, Vue.js, Express, Firebase, Vite, Git |
 | [ASPortfolio](https://github.com/rahulvikram/aspnet) | Example simple portfolio website and online marketplace developed in ASP.NET Core MVC, applying various system design concepts. | C#, .NET, ASP.NET Core MVC, Git |
 | [Groqqoli](https://github.com/rahulvikram/groqqoli-beavhacks/) | An AI cooking assistant with features such as recipe suggestions from ingredient images, and a text-to-speech recipe voice assistant. Powered by Vercel AI SDK and Groq AI.| TypeScript, Next.js, React, Tailwind, MagicUI, Clerk, Vercel AI SDK, Groq AI |
+| [LeafLens.ai](https://github.com/rahulvikram/doctor-plant) | An AI-powered tool that analyzes plant images and provides detailed insights about plant health, detected diseases, and recommended treatments. Powered by Google GenAI. | Next.js, React, Tailwind, RadixUI, Clerk, Google GenAI, Python, Flask, Firebase, lowdb |
 | [JetSuite](https://github.com/rahulvikram/jet-suite/) | A platform inspired by Expedia, designed for managing hotel and flight bookings efficiently. **(WIP)** | JavaScript, React, Express, REST, MySQL, Tailwind, Vite, Git |
 | Coming soon...  | In progress... | W.I.P. |
 
