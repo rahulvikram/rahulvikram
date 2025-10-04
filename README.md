@@ -1,4 +1,4 @@
-[![GitHub Banner](banner-blue.png "GitHub Banner")](https://www.linkedin.com/in/rahul-vikram/)
+[![GitHub Banner](banner-blue.png "GitHub Banner")](https://rahulvikram.com/)
 
 ## Welcome to my GitHub Page!
 ### About Me
@@ -7,6 +7,7 @@
 - 🧠 ML Researcher @ STAR Lab
 - 👩‍💻 SWE @ OSU CASS
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/rahul-vikram/)
+- 🌐 Visit my [personal website!](https://rahulvikram.com/)
 
 ## Projects
 | Project  | Description | Tech Stack |
