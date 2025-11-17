@@ -18,7 +18,8 @@
 | [ASPortfolio](https://github.com/rahulvikram/aspnet) | Example simple portfolio website and online marketplace developed in ASP.NET Core MVC, applying various system design concepts. | C#, .NET, ASP.NET Core MVC, Git |
 | [Groqqoli](https://github.com/rahulvikram/groqqoli-beavhacks/) | An AI cooking assistant with features such as recipe suggestions from ingredient images, and a text-to-speech recipe voice assistant. Powered by Vercel AI SDK and Groq AI.| TypeScript, Next.js, React, Tailwind, MagicUI, Clerk, Vercel AI SDK, Groq AI |
 | [LeafLens.ai](https://github.com/rahulvikram/doctor-plant) | An AI-powered tool that analyzes plant images and provides detailed insights about plant health, detected diseases, and recommended treatments. Powered by Google GenAI. | Next.js, React, Tailwind, RadixUI, Clerk, Google GenAI, Python, Flask, Firebase, lowdb |
-| [JetSuite](https://github.com/rahulvikram/jet-suite/) | A platform inspired by Expedia, designed for managing hotel and flight bookings efficiently. **(WIP)** | JavaScript, React, Express, REST, MySQL, Tailwind, Vite, Git |
+| [Optimal Wakefulness](https://github.com/Carson274/Optimal-Wakefulness) | A Swift-based Apple Watch app that uses real-time sleep and motion data to wake users at the optimal point in their sleep cycle for a more refreshing morning. | Swift, Xcode, SwiftUI, HealthKit, CoreMotion, CoreData, AlarmKit, WatchKit |
+| PackTrack | A platform where delivery/logistics companies can track packages, get event (delays/delivered) alerts, and support clients in real time. **(WIP)** | Python, Flask, React, RTK, Tailwind, RabbitMQ, PostGreSQL, AWS RDS, Git |
 | Coming soon...  | In progress... | W.I.P. |
 
 ## Languages
@@ -30,8 +31,9 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqltutorial.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Swift](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 
 
 ## Libraries/Frameworks
