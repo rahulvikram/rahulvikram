@@ -2,10 +2,9 @@
 
 ## Welcome to my GitHub Page!
 ### About Me
-- 🖥️ CS @ Oregon State University Honors 
-- 💼 Minor in Math & Business
-- 🧠 ML Researcher @ STAR Lab
-- 👩‍💻 SWE @ OSU CASS
+- 🖥️ CS @ Oregon State University
+- 💼 Minor in Business
+- 👩‍💻 SWE @ OSU [CASS](https://cass.oregonstate.edu/)
 - 🔗 Connect with me on [LinkedIn!](https://www.linkedin.com/in/rahul-vikram/)
 - 🌐 Visit my [personal website!](https://rahulvikram.com/)
 
