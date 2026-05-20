@@ -1,5 +1,3 @@
-[![GitHub Banner](banner-blue.png "GitHub Banner")](https://rahulvikram.com/)
-
 ## Welcome to my GitHub Page!
 ### About Me
 - 🖥️ CS @ Oregon State University
